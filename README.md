@@ -6,7 +6,7 @@ WebGL build of a 3D exploration game developed with Unity.
 
 ### Members
 
-Sebastián Chaves
+Sebastián Chaves\
 Adrián Rojas
 
 ### Game trailer
