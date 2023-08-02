@@ -15,4 +15,4 @@ Adrián Rojas
 
 ### WebGL on Github Pages
 
-[Climbforce WebGL Build](https://arojas00.github.io/Prototipo-InDev/)
+[Climbforce WebGL Build](https://arojas00.github.io/Climbforce-WebGL/)
